@@ -1,4 +1,4 @@
-#Memory Game Lab
+# Memory Game Lab
 
 You're going to create a Javascript memory game on a subject of your choice(web frameworks, dog breeds, etc.) See the example gifs at the bottom of the page for inspiration.
 
@@ -17,12 +17,12 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
-####Bonus Features
+#### Bonus Features
 
     Add a card-flipping animation when the user clicks a card
 
 
-###How It Works
+### How It Works
 
    If you're unfamiliar with the game, the rules are very simple; flip over two hidden cards at a time to locate the ones that match!
 
@@ -34,7 +34,7 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
     If the cards do not match, both cards are returned to their initial hidden state
 
       The game ends once all cards have been correctly matched.
-###What Will I Learn?
+### What Will I Learn?
 
 The memory game presents the first opportunity to fully combine HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you'll learn how best to combine them in a complex application. What's the ideal workflow? How many files do you need? Do you write the HTML first? The JavaScript?
 
