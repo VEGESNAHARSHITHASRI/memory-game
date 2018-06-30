@@ -39,7 +39,7 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 The memory game presents the first opportunity to fully combine HTML, CSS, and JavaScript into a large project. Aside from solidifying your skills with these three technologies, you'll learn how best to combine them in a complex application. What's the ideal workflow? How many files do you need? Do you write the HTML first? The JavaScript?
 
 
-###Hints
+### Hints
 
     We recommend starting off working on a very simple grid of cards. Don't worry about styling, just get something clickable on the page
     Figure out how each card is structured. Remember, you have to represent two sides of the card. Are you going to have two separate elements stacked on top of each other?
@@ -47,6 +47,6 @@ The memory game presents the first opportunity to fully combine HTML, CSS, and J
     Next, work on the matching logic. How does your game "know" if a player guesses correctly or incorrectly?
     We recommend saving styling until the very end. Allow your game logic and functionality to dictate the styling.
 
-###Credits
+### Credits
 
     memory-game
